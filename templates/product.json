@@ -27,12 +27,6 @@
             "price_size": "medium"
           }
         },
-        "custom_liquid_yJ6Raw": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"ultimate-countdown\"></div>"
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {}
@@ -43,6 +37,12 @@
             "price_size": "medium",
             "show_badges": true,
             "sale_badge_basis": "auto"
+          }
+        },
+        "custom_liquid_yJ6Raw": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-countdown\"></div>"
           }
         },
         "variant_picker": {
@@ -100,9 +100,9 @@
       },
       "block_order": [
         "title",
-        "custom_liquid_yJ6Raw",
         "rating",
         "price",
+        "custom_liquid_yJ6Raw",
         "variant_picker",
         "description",
         "buy_buttons",
