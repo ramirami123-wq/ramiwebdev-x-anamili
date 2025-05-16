@@ -27,6 +27,12 @@
             "price_size": "medium"
           }
         },
+        "custom_liquid_yJ6Raw": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-countdown\"></div>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {}
@@ -94,6 +100,7 @@
       },
       "block_order": [
         "title",
+        "custom_liquid_yJ6Raw",
         "rating",
         "price",
         "variant_picker",
