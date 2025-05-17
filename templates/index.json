@@ -314,29 +314,36 @@
         "question_fEJP4e": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How do Anamilinails fit my nails?",
+            "text": "<p>Each pack contains 18 strips in 8 different sizes, designed to fit every nail shape. If your nails are not very long, you can easily cut the strip in half and use it for another nail. The strips are flexible, so for wider nails, you can gently stretch them until they fit perfectly. Each pack will give you 2 to 4 full manicures.</p>"
           }
         },
         "question_KifgUV": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "How can I remove Maniko Nails?",
+            "text": "<p>It's Very Simple, Easy, and without any Pain or Damage. Just put a little bit of our pen serum on your cuticle, and push the Gel strip with the wooden.</p>"
           }
         },
         "question_YYGfR4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Can Anamilinails make your nails longer?",
+            "text": "<p>Anamilinails can make your nails longer by 20% only since the end of Anamilinails preferred be filed down to the length of the natural nail.<br/>However, we are developing a solution that will allow you to obtain an extension with Anamilinails.</p>"
           }
         },
         "question_BxKzxK": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "title": "Will they damage my nails?",
+            "text": "<p>The formula of our Gel Manicure is 100% safe and Damage Free. </p>"
+          }
+        },
+        "question_MrK38x": {
+          "type": "question",
+          "settings": {
+            "title": "How long do they last?",
+            "text": "<p>With the correct application they last up to 21 days</p>"
           }
         }
       },
@@ -344,7 +351,8 @@
         "question_fEJP4e",
         "question_KifgUV",
         "question_YYGfR4",
-        "question_BxKzxK"
+        "question_BxKzxK",
+        "question_MrK38x"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
