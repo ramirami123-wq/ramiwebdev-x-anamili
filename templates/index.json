@@ -42,8 +42,8 @@
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "GET YOURS",
+            "button_link": "shopify://collections/all",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -52,6 +52,9 @@
       "block_order": [
         "slide-0",
         "slide-1"
+      ],
+      "custom_css": [
+        "button , a {box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.1); /* soft grey shadow */ border-radius: 20px; /* curve the corners */}"
       ],
       "settings": {
         "slideshow_type": "legacy",
