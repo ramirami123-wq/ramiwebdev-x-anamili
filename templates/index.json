@@ -54,7 +54,7 @@
         "slide-1"
       ],
       "custom_css": [
-        "button , a {box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.1); /* soft grey shadow */ border-radius: 20px; /* curve the corners */}"
+        "a {box-shadow: 6px 6px 0px rgba(255, 255, 255, 0.2); /* subtle white shadow, bottom & right */ border-radius: 20px;}"
       ],
       "settings": {
         "slideshow_type": "legacy",
@@ -83,7 +83,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "",
+        "collection": "starter-kits",
         "products_to_show": 2,
         "horizontal_scroll": false,
         "show_view_all": false,
@@ -113,7 +113,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "collection": "",
+        "collection": "our-products",
         "products_to_show": 4,
         "horizontal_scroll": false,
         "show_view_all": true,
