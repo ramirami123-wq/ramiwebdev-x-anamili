@@ -283,11 +283,12 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/IMG_6921_c6e43ea4-1e54-4dd7-8f96-48fbbb54d3a6.png",
         "image_position": "center center",
         "layout": "text_first",
         "text_box_position": "middle",
         "text_alignment": "left",
-        "image_ratio": "650px",
+        "image_ratio": "adapt",
         "enlarge_content": false,
         "full_width": true,
         "show_divider": false,
