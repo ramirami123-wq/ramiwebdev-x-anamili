@@ -164,6 +164,7 @@
           "settings": {
             "icon": "truck",
             "icon_size": "medium",
+            "image": "shopify://shop_images/Vegan_1440x_da8c972e-86ba-4c3a-b5b3-adf86e6167cd.webp",
             "custom_icon": "",
             "title": "100% Vegan",
             "title_size": "h3",
@@ -175,6 +176,7 @@
           "settings": {
             "icon": "truck",
             "icon_size": "medium",
+            "image": "shopify://shop_images/Hema-free_1_1440x_4d006070-adde-41bb-aa6c-7e89bd45fb70.webp",
             "custom_icon": "",
             "title": "HEMA Free",
             "title_size": "h3",
@@ -186,6 +188,7 @@
           "settings": {
             "icon": "truck",
             "icon_size": "medium",
+            "image": "shopify://shop_images/gelpolish_1440x_785d73d9-e8dc-4695-90bf-b52745479dd8.webp",
             "custom_icon": "",
             "title": "Real Gel Polish",
             "title_size": "h3",
@@ -197,6 +200,7 @@
           "settings": {
             "icon": "truck",
             "icon_size": "medium",
+            "image": "shopify://shop_images/allsizes_1440x_98c3622c-3978-424b-a08f-f5675b1995b0.webp",
             "custom_icon": "",
             "title": "Fit All Nails",
             "title_size": "h3",
