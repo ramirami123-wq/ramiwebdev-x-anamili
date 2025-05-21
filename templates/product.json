@@ -211,6 +211,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -273,31 +274,6 @@
         "colors_text": "#1a1b18",
         "colors_background": "#ffdcdc",
         "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "product_list_limit": 4,
-        "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -368,6 +344,115 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ant_xgdQHd": {
+      "type": "ant",
+      "blocks": {
+        "text_ehzXzg": {
+          "type": "text",
+          "settings": {
+            "heading": "98% of customers",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "heading_size": 120,
+            "heading_size_mobile": 60,
+            "heading_height": 100,
+            "heading_align": "center",
+            "heading_style": "fill",
+            "heading_outline_thickness": 1,
+            "number_animation": false,
+            "number_duration": 3,
+            "sub_heading": "say their nails look salon-level flawless",
+            "sub_heading_custom": false,
+            "sub_heading_font": "assistant_n4",
+            "sub_heading_size": 26,
+            "sub_heading_size_mobile": 20,
+            "sub_heading_height": 100,
+            "sub_heading_align": "center",
+            "sub_heading_mt": 16,
+            "content": "",
+            "content_custom": false,
+            "content_font": "assistant_n4",
+            "content_size": 18,
+            "content_size_mobile": 16,
+            "content_height": 100,
+            "content_align": "center",
+            "content_mt": 16,
+            "link": "",
+            "link_url": "",
+            "link_custom": false,
+            "link_font": "assistant_n4",
+            "link_size": 18,
+            "link_size_mobile": 16,
+            "link_height": 100,
+            "link_align": "center",
+            "link_style": "button",
+            "link_thickness": 1,
+            "link_padding_horizontal": 16,
+            "link_padding_vertical": 12,
+            "link_radius": 28,
+            "link_mt": 16,
+            "heading_color": "#000000",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(197, 191, 191, 1), rgba(255, 236, 236, 1) 100%)",
+            "sub_heading_color": "#000000",
+            "content_color": "#000000",
+            "link_color": "#000000",
+            "link_hover_color": "#CFCDCD",
+            "link_bg_color": "",
+            "link_bg_hover_color": "",
+            "link_border_color": "#000000",
+            "link_border_hover_color": "#CFCDCD"
+          }
+        }
+      },
+      "block_order": [
+        "text_ehzXzg"
+      ],
+      "name": "Countup Text",
+      "settings": {
+        "stack_mobile": false,
+        "divider": "circle",
+        "items_gap": 50,
+        "items_gap_mobile": 50,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "divider_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5
+      }
     }
   },
   "order": [
@@ -376,6 +461,7 @@
     "image_with_text_ALyiir",
     "scrolling_promotion_waNdpX",
     "guarantees_DkawFY",
+    "ant_xgdQHd",
     "product-recommendations"
   ]
 }
