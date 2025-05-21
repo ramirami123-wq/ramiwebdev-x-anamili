@@ -345,31 +345,6 @@
         "padding_bottom": 36
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "product_list_limit": 4,
-        "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ant_xgdQHd": {
       "type": "ant",
       "blocks": {
@@ -422,11 +397,11 @@
             "sub_heading_color": "#000000",
             "content_color": "#000000",
             "link_color": "#000000",
-            "link_hover_color": "#CFCDCD",
+            "link_hover_color": "#cfcdcd",
             "link_bg_color": "",
             "link_bg_hover_color": "",
             "link_border_color": "#000000",
-            "link_border_hover_color": "#CFCDCD"
+            "link_border_hover_color": "#cfcdcd"
           }
         }
       },
@@ -442,7 +417,7 @@
         "full_width": false,
         "content_width": 120,
         "border_thickness": 0,
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "divider_color": "#000000",
@@ -453,6 +428,197 @@
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5
       }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ai_E3TYDX": {
+      "type": "ai",
+      "blocks": {
+        "item_cFjTpW": {
+          "type": "item",
+          "settings": {
+            "row_heading": "10 minutes at home",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_ztHNYa": {
+          "type": "item",
+          "settings": {
+            "row_heading": "2–4 full manicures per pack",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_KdCKyJ": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Vegan, HEMA-free, no damage",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_ECkDyF": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Anytime, anywhere",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_cFjTpW",
+        "item_ztHNYa",
+        "item_KdCKyJ",
+        "item_ECkDyF"
+      ],
+      "name": "SS - Comparison Table #4",
+      "settings": {
+        "heading": "<h2>WHY ANAMILI?</h2>",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 56,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "table_width": 80,
+        "table_columns": 2,
+        "table_align": "center",
+        "table_mt": 44,
+        "table_column_active": "1",
+        "table_column_active_radius": 16,
+        "table_column_active_border_thickness": 2,
+        "table_heading_image_size": 66,
+        "table_heading_image_size_mobile": 40,
+        "first_heading": "ANAMILI",
+        "second_heading": "SALON NAILS",
+        "third_heading": "",
+        "four_heading": "",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 16,
+        "table_heading_size_mobile": 10,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 12,
+        "table_heading_padding_horizontal_mobile": 4,
+        "table_heading_padding_vertical": 10,
+        "table_heading_padding_vertical_mobile": 10,
+        "table_row_padding_horizontal": 16,
+        "table_row_padding_horizontal_mobile": 10,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 10,
+        "table_row_border_thickness": 1,
+        "table_row_heading_image_size": 66,
+        "table_row_heading_image_size_mobile": 40,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 22,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 52,
+        "table_row_image_size_mobile": 40,
+        "buttons_mt": 44,
+        "buttons_gap": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 22,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 40,
+        "button_radius": 6,
+        "button_border_thickness": 2,
+        "second_button": "",
+        "second_button_url": "",
+        "second_button_custom": false,
+        "second_button_font": "josefin_sans_n4",
+        "second_button_size": 22,
+        "second_button_size_mobile": 18,
+        "second_button_height": 100,
+        "second_button_padding_vertical": 20,
+        "second_button_padding_horizontal": 40,
+        "second_button_radius": 6,
+        "second_button_border_thickness": 2,
+        "table_heading_color": "#2F1718",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#000000",
+        "table_column_active_bg_color": "#FFFFFF",
+        "table_column_active_border_color": "#000000",
+        "table_row_border_color": "#D3CABC",
+        "table_row_heading_color": "#2F1718",
+        "table_row_text_color": "#2F1718",
+        "table_row_active_text_color": "#AA1B26",
+        "button_color": "#A8252E",
+        "button_hover_color": "#FFFFFF",
+        "button_bg_color": "",
+        "button_bg_hover_color": "#A8252E",
+        "button_border_color": "#A8252E",
+        "button_border_hover_color": "#A8252E",
+        "second_button_color": "#FFFFFF",
+        "second_button_hover_color": "#FFFFFF",
+        "second_button_bg_color": "#A8252E",
+        "second_button_bg_hover_color": "#791119",
+        "second_button_border_color": "#A8252E",
+        "second_button_border_hover_color": "#791119",
+        "heading_color": "#2F1718",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -462,6 +628,7 @@
     "scrolling_promotion_waNdpX",
     "guarantees_DkawFY",
     "ant_xgdQHd",
+    "ai_E3TYDX",
     "product-recommendations"
   ]
 }
