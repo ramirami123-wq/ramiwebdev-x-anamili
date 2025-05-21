@@ -127,6 +127,9 @@
         "related_buttons",
         "sticky_cart"
       ],
+      "custom_css": [
+        ".product-form__submit {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
