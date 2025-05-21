@@ -770,10 +770,10 @@
     "17477986762af16ab9": {
       "type": "apps",
       "blocks": {
-        "fera_product_reviews_GWwEcj": {
+        "fera_product_reviews_pMThYy": {
           "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
           "settings": {
-            "heading": "Reviews",
+            "heading": "Product Reviews",
             "layout": "masonry",
             "star_color": "#000000",
             "when_no_reviews": "show_from_related"
@@ -781,7 +781,7 @@
         }
       },
       "block_order": [
-        "fera_product_reviews_GWwEcj"
+        "fera_product_reviews_pMThYy"
       ],
       "settings": {
         "include_margins": true,
