@@ -476,7 +476,8 @@
             "icon": "atc",
             "custom_icon": "shopify://shop_images/plant-based.png",
             "heading": "Vegan & HEMA-Free",
-            "text": "<p>Safe for you, kind to your nails.</p>"
+            "text": "<p>Safe for you, kind to your nails.</p>",
+            "image": "shopify://shop_images/Brown_Neutral_Aesthetic_Cafe_Photography_Photo_Collage.jpg"
           }
         }
       },
@@ -769,20 +770,6 @@
     },
     "17477986762af16ab9": {
       "type": "apps",
-      "blocks": {
-        "fera_product_reviews_pMThYy": {
-          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-          "settings": {
-            "heading": "Product Reviews",
-            "layout": "masonry",
-            "star_color": "#000000",
-            "when_no_reviews": "show_from_related"
-          }
-        }
-      },
-      "block_order": [
-        "fera_product_reviews_pMThYy"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
