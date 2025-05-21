@@ -660,6 +660,139 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "o_E4cEHK": {
+      "type": "o",
+      "blocks": {
+        "item_hTTJCQ": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "heading": "Feature 1",
+            "text": "<p>Describe a key feature in detail.</p>"
+          }
+        },
+        "item_W7rGTP": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "heading": "Feature 2",
+            "text": "<ul><li>Describe a key feature in detail.</li></ul>"
+          }
+        },
+        "item_6r9EyA": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "heading": "Feature 3",
+            "text": "<ul><li>Describe a key feature in detail.</li></ul>"
+          }
+        },
+        "item_CC3qCm": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "heading": "Feature 4",
+            "text": "<ul><li>Describe a key feature in detail.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hTTJCQ",
+        "item_W7rGTP",
+        "item_6r9EyA",
+        "item_CC3qCm"
+      ],
+      "name": "SS - Feature #15",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 54,
+        "heading_size_mobile": 30,
+        "heading_height": 130,
+        "heading_align_mobile": "center",
+        "tabs_radius": 6,
+        "tabs_border_thickness": 0,
+        "tabs_mt_mobile": 24,
+        "tab_padding_vertical": 10,
+        "tab_padding_vertical_mobile": 10,
+        "tab_padding_horizontal": 14,
+        "tab_padding_horizontal_mobile": 14,
+        "tab_icon_size": 24,
+        "tab_icon_size_mobile": 24,
+        "tab_custom": false,
+        "tab_font": "josefin_sans_n4",
+        "tab_size": 14,
+        "tab_height": 100,
+        "slider_mt": 40,
+        "slider_mt_mobile": 40,
+        "slide_gap": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 32,
+        "sub_heading_size_mobile": 30,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 20,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "list_item_icon_size": 16,
+        "list_item_icon_size_mobile": 16,
+        "slide_image_position": "right",
+        "slide_image_radius": 12,
+        "slide_image_border_thickness": 0,
+        "slide_image_mt_mobile": 20,
+        "slide_image_ratio": "square",
+        "slide_image_ratio_mobile": "square",
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_hover_effect": "arrow",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "tabs_border_color": "#000000",
+        "tab_color": "#000000",
+        "tab_hover_color": "#000000",
+        "tab_active_color": "#000000",
+        "tab_bg_color": "#ffdcdc",
+        "tab_bg_hover_color": "#ede6db",
+        "tab_bg_active_color": "#FBB163",
+        "slide_image_border_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "",
+        "arrow_bg_hover_color": "",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 10,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -670,6 +803,7 @@
     "guarantees_DkawFY",
     "ant_xgdQHd",
     "video_GXjw3C",
+    "o_E4cEHK",
     "ai_E3TYDX",
     "product-recommendations",
     "17477986762af16ab9"
