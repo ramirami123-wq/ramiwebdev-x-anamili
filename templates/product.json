@@ -221,31 +221,6 @@
         "padding_bottom": 36
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "product_list_limit": 4,
-        "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "scrolling_promotion_waNdpX": {
       "type": "scrolling-promotion",
       "blocks": {
@@ -301,6 +276,98 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_DkawFY": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_JeKr9r": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/allsizes_1440x_98c3622c-3978-424b-a08f-f5675b1995b0.webp",
+            "custom_icon": "",
+            "title": "Fit all nails",
+            "title_size": "h3",
+            "text": "<p>Flexible Design to fit all Nail types</p>"
+          }
+        },
+        "guarantee_KUPKVm": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/gelpolish_1440x_785d73d9-e8dc-4695-90bf-b52745479dd8.webp",
+            "custom_icon": "",
+            "title": "Real gel polish",
+            "title_size": "h3",
+            "text": "<p>100% Real Chemical Free Gel Polish</p>"
+          }
+        },
+        "guarantee_aHJE3U": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/Hema-free_1_1440x_4d006070-adde-41bb-aa6c-7e89bd45fb70.webp",
+            "custom_icon": "",
+            "title": "HEMA free",
+            "title_size": "h3",
+            "text": "<p>Without harmful substances</p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_JeKr9r",
+        "guarantee_KUPKVm",
+        "guarantee_aHJE3U"
+      ],
+      "name": "t:sections.guarantees.presets.name",
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -308,6 +375,7 @@
     "main",
     "image_with_text_ALyiir",
     "scrolling_promotion_waNdpX",
+    "guarantees_DkawFY",
     "product-recommendations"
   ]
 }
