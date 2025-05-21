@@ -19,6 +19,14 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_PNX8Pd": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "⭐⭐⭐⭐⭐ Based on 290+ Ratings",
+            "text_style": "body"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -26,10 +34,6 @@
             "show_price": false,
             "price_size": "medium"
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {}
         },
         "price": {
           "type": "price",
@@ -43,6 +47,12 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<div class=\"ultimate-countdown\"></div>"
+          }
+        },
+        "custom_liquid_7CtWcY": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>\n\n🪩 <b>Nails that complete</b> every outfit  \n<br>\n💖 <b>Feel prettier</b>, fresher & more confident  \n<br>\n✈️ <b>Ready in 10 minutes</b> — for anything  \n<br>\n\n</div>"
           }
         },
         "variant_picker": {
@@ -104,10 +114,11 @@
         }
       },
       "block_order": [
+        "text_PNX8Pd",
         "title",
-        "rating",
         "price",
         "custom_liquid_yJ6Raw",
+        "custom_liquid_7CtWcY",
         "variant_picker",
         "buy_buttons",
         "collapsible_description_jXNiGE",
