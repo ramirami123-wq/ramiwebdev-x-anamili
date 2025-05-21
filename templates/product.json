@@ -35,6 +35,12 @@
             "price_size": "medium"
           }
         },
+        "custom_liquid_wLKUCm": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -84,6 +90,28 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_KUUEcm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "star",
+            "heading": "features",
+            "content": "<p>ANAMILI  Gel Strips, are Semi cured Real Gel, 60% cured with the best technologies and Top Nail health Standards. They give your Nails the salon look, and guarantee their health condition. </p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_7AcAXq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "box",
+            "heading": "package",
+            "content": "<p>20x Gel Strips<br/>1x Nail File 120/180<br/>1x Manicure Stick<br/>2x Alchoolic Pads</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "inventory_status": {
           "type": "inventory_status",
           "disabled": true,
@@ -91,12 +119,6 @@
             "inventory_threshold": 20,
             "show_inventory_transfer": true,
             "color_scheme": "accent-3"
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         },
         "related_buttons": {
@@ -116,14 +138,16 @@
       "block_order": [
         "text_PNX8Pd",
         "title",
+        "custom_liquid_wLKUCm",
         "price",
         "custom_liquid_yJ6Raw",
         "custom_liquid_7CtWcY",
         "variant_picker",
         "buy_buttons",
         "collapsible_description_jXNiGE",
+        "collapsible_tab_KUUEcm",
+        "collapsible_tab_7AcAXq",
         "inventory_status",
-        "share",
         "related_buttons",
         "sticky_cart"
       ],
@@ -145,6 +169,56 @@
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "image_with_text_ALyiir": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eG3mNx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nails That Speak Before You Do",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_yzF9YJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anamili gives you flawless, salon-level nails in minutes — so you can feel confident, polished, and powerful every single day.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eG3mNx",
+        "text_yzF9YJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Peachperfect_04_1440x_07b5793d-3317-4385-b3dd-6bdeb0465ca4.webp",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-recommendations": {
@@ -171,11 +245,69 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "scrolling_promotion_waNdpX": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_bDLgQi": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Easy To Use",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_KBHrDT": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Cruelty-Free",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_hh9UER": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Non-Toxic",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_bDLgQi",
+        "announcement_KBHrDT",
+        "announcement_hh9UER"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffdcdc",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffdcdc",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "empty-space",
     "main",
+    "image_with_text_ALyiir",
+    "scrolling_promotion_waNdpX",
     "product-recommendations"
   ]
 }
