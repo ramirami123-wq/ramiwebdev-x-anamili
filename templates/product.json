@@ -429,31 +429,6 @@
         "padding_horizontal_mobile": 1.5
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "product_list_limit": 4,
-        "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ai_E3TYDX": {
       "type": "ai",
       "blocks": {
@@ -583,28 +558,28 @@
         "second_button_padding_horizontal": 40,
         "second_button_radius": 6,
         "second_button_border_thickness": 2,
-        "table_heading_color": "#2F1718",
-        "table_heading_active_color": "#FFFFFF",
+        "table_heading_color": "#2f1718",
+        "table_heading_active_color": "#ffffff",
         "table_heading_bg_active_color": "#000000",
-        "table_column_active_bg_color": "#FFFFFF",
+        "table_column_active_bg_color": "#ffffff",
         "table_column_active_border_color": "#000000",
-        "table_row_border_color": "#D3CABC",
-        "table_row_heading_color": "#2F1718",
-        "table_row_text_color": "#2F1718",
-        "table_row_active_text_color": "#AA1B26",
-        "button_color": "#A8252E",
-        "button_hover_color": "#FFFFFF",
+        "table_row_border_color": "#d3cabc",
+        "table_row_heading_color": "#2f1718",
+        "table_row_text_color": "#2f1718",
+        "table_row_active_text_color": "#aa1b26",
+        "button_color": "#a8252e",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "",
-        "button_bg_hover_color": "#A8252E",
-        "button_border_color": "#A8252E",
-        "button_border_hover_color": "#A8252E",
-        "second_button_color": "#FFFFFF",
-        "second_button_hover_color": "#FFFFFF",
-        "second_button_bg_color": "#A8252E",
+        "button_bg_hover_color": "#a8252e",
+        "button_border_color": "#a8252e",
+        "button_border_hover_color": "#a8252e",
+        "second_button_color": "#ffffff",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#a8252e",
         "second_button_bg_hover_color": "#791119",
-        "second_button_border_color": "#A8252E",
+        "second_button_border_color": "#a8252e",
         "second_button_border_hover_color": "#791119",
-        "heading_color": "#2F1718",
+        "heading_color": "#2f1718",
         "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
@@ -619,6 +594,54 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17477986762af16ab9": {
+      "type": "apps",
+      "blocks": {
+        "fera_product_reviews_GWwEcj": {
+          "type": "shopify://apps/fera/blocks/product_reviews/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+          "settings": {
+            "heading": "Reviews",
+            "layout": "masonry",
+            "star_color": "#000000",
+            "when_no_reviews": "show_from_related"
+          }
+        }
+      },
+      "block_order": [
+        "fera_product_reviews_GWwEcj"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -629,6 +652,7 @@
     "guarantees_DkawFY",
     "ant_xgdQHd",
     "ai_E3TYDX",
-    "product-recommendations"
+    "product-recommendations",
+    "17477986762af16ab9"
   ]
 }
