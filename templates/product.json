@@ -429,6 +429,24 @@
         "padding_horizontal_mobile": 1.5
       }
     },
+    "video_GXjw3C": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/WhatsApp Video 2025-02-28 at 23.55.19_94080fbe.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "GET THOSE PERFECT NAILS!",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "ai_E3TYDX": {
       "type": "ai",
       "blocks": {
@@ -651,6 +669,7 @@
     "scrolling_promotion_waNdpX",
     "guarantees_DkawFY",
     "ant_xgdQHd",
+    "video_GXjw3C",
     "ai_E3TYDX",
     "product-recommendations",
     "17477986762af16ab9"
