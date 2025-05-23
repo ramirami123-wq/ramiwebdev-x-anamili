@@ -61,10 +61,6 @@
             "custom_liquid": "<div>\n\n🪩 <b>Nails that complete</b> every outfit  \n<br>\n💖 <b>Feel prettier</b>, fresher & more confident  \n<br>\n✈️ <b>Ready in 10 minutes</b> — for anything  \n<br><b>\n💸100% Money-back guarantee\n</b>\n</div>"
           }
         },
-        "eb_easy_bundle_builder_app_block_mix_and_match_bundle_HQgwmm": {
-          "type": "shopify://apps/eb-easy-bundle-builder/blocks/app-block-mixAndMatchBundle/05b1325c-6303-4da5-8e2f-b13ab2a50e1a",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -146,7 +142,6 @@
         "price",
         "custom_liquid_yJ6Raw",
         "custom_liquid_7CtWcY",
-        "eb_easy_bundle_builder_app_block_mix_and_match_bundle_HQgwmm",
         "variant_picker",
         "buy_buttons",
         "collapsible_description_jXNiGE",
