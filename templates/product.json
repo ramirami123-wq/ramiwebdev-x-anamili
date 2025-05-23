@@ -202,7 +202,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Peachperfect_04_1440x_07b5793d-3317-4385-b3dd-6bdeb0465ca4.webp",
+        "image": "shopify://shop_images/Artboard_13.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
