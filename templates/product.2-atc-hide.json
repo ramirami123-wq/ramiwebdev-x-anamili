@@ -1,0 +1,822 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "loox_reviews_loox_rating_9rzBNG": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "custom_liquid_wLKUCm": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "auto"
+          }
+        },
+        "custom_liquid_yJ6Raw": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ultimate-countdown\"></div>"
+          }
+        },
+        "custom_liquid_7CtWcY": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>\n\n🪩 <b>Nails that complete</b> every outfit  \n<br>\n💖 <b>Feel prettier</b>, fresher & more confident  \n<br>\n✈️ <b>Ready in 10 minutes</b> — for anything  \n<br><b>\n💸100% Money-back guarantee\n</b>\n</div>"
+          }
+        },
+        "eb_easy_bundle_builder_app_block_mix_and_match_bundle_Fh7bjT": {
+          "type": "shopify://apps/eb-easy-bundle-builder/blocks/app-block-mixAndMatchBundle/05b1325c-6303-4da5-8e2f-b13ab2a50e1a",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "collapsible_description_jXNiGE": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_KUUEcm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "star",
+            "heading": "features",
+            "content": "<p>ANAMILI  Gel Strips, are Semi cured Real Gel, 60% cured with the best technologies and Top Nail health Standards. They give your Nails the salon look, and guarantee their health condition. </p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_7AcAXq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "box",
+            "heading": "package",
+            "content": "<p>20x Gel Strips<br/>1x Nail File 120/180<br/>1x Manicure Stick<br/>2x Alchoolic Pads</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 20,
+            "show_inventory_transfer": true,
+            "color_scheme": "accent-3"
+          }
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_rating_9rzBNG",
+        "title",
+        "custom_liquid_wLKUCm",
+        "price",
+        "custom_liquid_yJ6Raw",
+        "custom_liquid_7CtWcY",
+        "eb_easy_bundle_builder_app_block_mix_and_match_bundle_Fh7bjT",
+        "variant_picker",
+        "buy_buttons",
+        "collapsible_description_jXNiGE",
+        "collapsible_tab_KUUEcm",
+        "collapsible_tab_7AcAXq",
+        "inventory_status",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "custom_css": [
+        ".product-form__submit {animation: shopifyshake 4s; animation-iteration-count: infinite;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "medium",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_featured_media": false,
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
+    "image_with_text_ALyiir": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eG3mNx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nails That Speak Before You Do",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_yzF9YJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anamili gives you flawless, salon-level nails in minutes — so you can feel confident, polished, and powerful every single day.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eG3mNx",
+        "text_yzF9YJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Artboard_13.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_waNdpX": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_bDLgQi": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Easy To Use",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_KBHrDT": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Cruelty-Free",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_hh9UER": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Non-Toxic",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_bDLgQi",
+        "announcement_KBHrDT",
+        "announcement_hh9UER"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffdcdc",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffdcdc",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees_DkawFY": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee_JeKr9r": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/allsizes_1440x_98c3622c-3978-424b-a08f-f5675b1995b0.webp",
+            "custom_icon": "",
+            "title": "Fit all nails",
+            "title_size": "h3",
+            "text": "<p>Flexible Design to fit all Nail types</p>"
+          }
+        },
+        "guarantee_KUPKVm": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/gelpolish_1440x_785d73d9-e8dc-4695-90bf-b52745479dd8.webp",
+            "custom_icon": "",
+            "title": "Real gel polish",
+            "title_size": "h3",
+            "text": "<p>100% Real Chemical Free Gel Polish</p>"
+          }
+        },
+        "guarantee_aHJE3U": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "medium",
+            "image": "shopify://shop_images/Hema-free_1_1440x_4d006070-adde-41bb-aa6c-7e89bd45fb70.webp",
+            "custom_icon": "",
+            "title": "HEMA free",
+            "title_size": "h3",
+            "text": "<p>Without harmful substances</p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee_JeKr9r",
+        "guarantee_KUPKVm",
+        "guarantee_aHJE3U"
+      ],
+      "name": "t:sections.guarantees.presets.name",
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 3,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ant_xgdQHd": {
+      "type": "ant",
+      "blocks": {
+        "text_ehzXzg": {
+          "type": "text",
+          "settings": {
+            "heading": "98% of customers",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "heading_size": 62,
+            "heading_size_mobile": 38,
+            "heading_height": 100,
+            "heading_align": "center",
+            "heading_style": "fill",
+            "heading_outline_thickness": 1,
+            "number_animation": false,
+            "number_duration": 3,
+            "sub_heading": "say their nails look salon-level flawless",
+            "sub_heading_custom": false,
+            "sub_heading_font": "assistant_n4",
+            "sub_heading_size": 26,
+            "sub_heading_size_mobile": 20,
+            "sub_heading_height": 100,
+            "sub_heading_align": "center",
+            "sub_heading_mt": 16,
+            "content": "",
+            "content_custom": false,
+            "content_font": "assistant_n4",
+            "content_size": 18,
+            "content_size_mobile": 16,
+            "content_height": 100,
+            "content_align": "center",
+            "content_mt": 16,
+            "link": "",
+            "link_url": "",
+            "link_custom": false,
+            "link_font": "assistant_n4",
+            "link_size": 18,
+            "link_size_mobile": 16,
+            "link_height": 100,
+            "link_align": "center",
+            "link_style": "button",
+            "link_thickness": 1,
+            "link_padding_horizontal": 16,
+            "link_padding_vertical": 12,
+            "link_radius": 28,
+            "link_mt": 16,
+            "heading_color": "#000000",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(255, 236, 236, 1) 100%)",
+            "sub_heading_color": "#000000",
+            "content_color": "#000000",
+            "link_color": "#000000",
+            "link_hover_color": "#cfcdcd",
+            "link_bg_color": "",
+            "link_bg_hover_color": "",
+            "link_border_color": "#000000",
+            "link_border_hover_color": "#cfcdcd"
+          }
+        }
+      },
+      "block_order": [
+        "text_ehzXzg"
+      ],
+      "name": "Countup Text",
+      "settings": {
+        "stack_mobile": false,
+        "divider": "circle",
+        "items_gap": 50,
+        "items_gap_mobile": 50,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "divider_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5
+      }
+    },
+    "video_GXjw3C": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "enable_video_looping": true,
+        "video": "shopify://files/videos/WhatsApp Video 2025-02-28 at 23.55.19_94080fbe.mp4",
+        "video_url": "",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "GET THOSE PERFECT NAILS!",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "o_E4cEHK": {
+      "type": "o",
+      "blocks": {
+        "item_hTTJCQ": {
+          "type": "item",
+          "settings": {
+            "icon": "chat",
+            "custom_icon": "shopify://shop_images/easy-to-use.png",
+            "heading": "Easy to Use",
+            "text": "<p>Just peel, stick, and cure. No skills needed.</p>",
+            "image": "shopify://shop_images/CLIPVIDEOPERGIFSITO-NATALIA5-ezgif.com-video-to-gif-converter_3000x3000_529213bf-de88-4e59-921e-ad4bb4aaf39d.webp"
+          }
+        },
+        "item_W7rGTP": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify://shop_images/clock.png",
+            "heading": "Fast Application",
+            "text": "<p>Salon nails in under 10 minutes.</p>",
+            "image": "shopify://shop_images/Artboard_11_1.png"
+          }
+        },
+        "item_6r9EyA": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "custom_icon": "shopify://shop_images/plant-based.png",
+            "heading": "Vegan & HEMA-Free",
+            "text": "<p>Safe for you, kind to your nails.</p>",
+            "image": "shopify://shop_images/Artboard_6.png"
+          }
+        }
+      },
+      "block_order": [
+        "item_hTTJCQ",
+        "item_W7rGTP",
+        "item_6r9EyA"
+      ],
+      "name": "SS - Feature #15",
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 54,
+        "heading_size_mobile": 30,
+        "heading_height": 130,
+        "heading_align_mobile": "center",
+        "tabs_radius": 6,
+        "tabs_border_thickness": 0,
+        "tabs_mt_mobile": 24,
+        "tab_padding_vertical": 10,
+        "tab_padding_vertical_mobile": 10,
+        "tab_padding_horizontal": 14,
+        "tab_padding_horizontal_mobile": 14,
+        "tab_icon_size": 24,
+        "tab_icon_size_mobile": 24,
+        "tab_custom": false,
+        "tab_font": "josefin_sans_n4",
+        "tab_size": 14,
+        "tab_height": 100,
+        "slider_mt": 40,
+        "slider_mt_mobile": 40,
+        "slide_gap": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 32,
+        "sub_heading_size_mobile": 30,
+        "sub_heading_height": 130,
+        "sub_heading_mt": 20,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 16,
+        "text_mt_mobile": 16,
+        "list_item_icon_size": 16,
+        "list_item_icon_size_mobile": 16,
+        "slide_image_position": "right",
+        "slide_image_radius": 12,
+        "slide_image_border_thickness": 0,
+        "slide_image_mt_mobile": 20,
+        "slide_image_ratio": "square",
+        "slide_image_ratio_mobile": "square",
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_hover_effect": "arrow",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "tabs_border_color": "#000000",
+        "tab_color": "#000000",
+        "tab_hover_color": "#000000",
+        "tab_active_color": "#000000",
+        "tab_bg_color": "#ffdcdc",
+        "tab_bg_hover_color": "#e4e4e4",
+        "tab_bg_active_color": "#e4e4e4",
+        "slide_image_border_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "",
+        "arrow_bg_hover_color": "",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 10,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "ai_E3TYDX": {
+      "type": "ai",
+      "blocks": {
+        "item_cFjTpW": {
+          "type": "item",
+          "settings": {
+            "row_heading": "10 minutes at home",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_ztHNYa": {
+          "type": "item",
+          "settings": {
+            "row_heading": "2–4 full manicures per pack",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_KdCKyJ": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Vegan, HEMA-free, no damage",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_ECkDyF": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Anytime, anywhere",
+            "first_column": "Yes",
+            "second_column": "No",
+            "third_column": "",
+            "four_column": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_cFjTpW",
+        "item_ztHNYa",
+        "item_KdCKyJ",
+        "item_ECkDyF"
+      ],
+      "name": "SS - Comparison Table #4",
+      "settings": {
+        "heading": "<h2>WHY ANAMILI?</h2>",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 56,
+        "heading_size_mobile": 32,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "table_width": 80,
+        "table_columns": 2,
+        "table_align": "center",
+        "table_mt": 44,
+        "table_column_active": "1",
+        "table_column_active_radius": 16,
+        "table_column_active_border_thickness": 2,
+        "table_heading_image_size": 66,
+        "table_heading_image_size_mobile": 40,
+        "first_heading": "ANAMILI",
+        "second_heading": "SALON NAILS",
+        "third_heading": "",
+        "four_heading": "",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 16,
+        "table_heading_size_mobile": 10,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 12,
+        "table_heading_padding_horizontal_mobile": 4,
+        "table_heading_padding_vertical": 10,
+        "table_heading_padding_vertical_mobile": 10,
+        "table_row_padding_horizontal": 16,
+        "table_row_padding_horizontal_mobile": 10,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 10,
+        "table_row_border_thickness": 1,
+        "table_row_heading_image_size": 66,
+        "table_row_heading_image_size_mobile": 40,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 22,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 52,
+        "table_row_image_size_mobile": 40,
+        "buttons_mt": 44,
+        "buttons_gap": 16,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 22,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 40,
+        "button_radius": 6,
+        "button_border_thickness": 2,
+        "second_button": "",
+        "second_button_url": "",
+        "second_button_custom": false,
+        "second_button_font": "josefin_sans_n4",
+        "second_button_size": 22,
+        "second_button_size_mobile": 18,
+        "second_button_height": 100,
+        "second_button_padding_vertical": 20,
+        "second_button_padding_horizontal": 40,
+        "second_button_radius": 6,
+        "second_button_border_thickness": 2,
+        "table_heading_color": "#2f1718",
+        "table_heading_active_color": "#ffffff",
+        "table_heading_bg_active_color": "#000000",
+        "table_column_active_bg_color": "#ffffff",
+        "table_column_active_border_color": "#000000",
+        "table_row_border_color": "#d3cabc",
+        "table_row_heading_color": "#2f1718",
+        "table_row_text_color": "#2f1718",
+        "table_row_active_text_color": "#aa1b26",
+        "button_color": "#a8252e",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "",
+        "button_bg_hover_color": "#a8252e",
+        "button_border_color": "#a8252e",
+        "button_border_hover_color": "#a8252e",
+        "second_button_color": "#ffffff",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#a8252e",
+        "second_button_bg_hover_color": "#791119",
+        "second_button_border_color": "#a8252e",
+        "second_button_border_hover_color": "#791119",
+        "heading_color": "#2f1718",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_list_limit": 4,
+        "show_divider": false,
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17477986762af16ab9": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_KHECTK": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_KHECTK"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "image_with_text_ALyiir",
+    "scrolling_promotion_waNdpX",
+    "guarantees_DkawFY",
+    "ant_xgdQHd",
+    "video_GXjw3C",
+    "o_E4cEHK",
+    "ai_E3TYDX",
+    "product-recommendations",
+    "17477986762af16ab9"
+  ]
+}
