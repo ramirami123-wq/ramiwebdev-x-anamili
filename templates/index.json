@@ -143,6 +143,7 @@
       "type": "video",
       "settings": {
         "enable_video_looping": false,
+        "video": "shopify://files/videos/TOF 3.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
