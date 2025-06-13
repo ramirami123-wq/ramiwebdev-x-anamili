@@ -207,7 +207,6 @@
         "heading_eG3mNx",
         "text_yzF9YJ"
       ],
-      "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/Artboard_13.png",
         "image_position": "center center",
@@ -276,7 +275,6 @@
         "announcement_KBHrDT",
         "announcement_hh9UER"
       ],
-      "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
         "speed": 1.6,
@@ -335,7 +333,6 @@
         "guarantee_KUPKVm",
         "guarantee_aHJE3U"
       ],
-      "name": "t:sections.guarantees.presets.name",
       "settings": {
         "layout": "default",
         "column_alignment": "center",
@@ -420,7 +417,6 @@
       "block_order": [
         "text_ehzXzg"
       ],
-      "name": "Countup Text",
       "settings": {
         "stack_mobile": false,
         "divider": "circle",
@@ -443,10 +439,9 @@
     },
     "video_GXjw3C": {
       "type": "video",
-      "name": "t:sections.video.presets.name",
       "settings": {
         "enable_video_looping": true,
-        "video": "shopify://files/videos/WhatsApp Video 2025-02-28 at 23.55.19_94080fbe.mp4",
+        "video": "shopify://files/videos/TOF 3.mp4",
         "video_url": "",
         "description": "",
         "full_width": false,
@@ -498,7 +493,6 @@
         "item_W7rGTP",
         "item_6r9EyA"
       ],
-      "name": "SS - Feature #15",
       "settings": {
         "heading": "",
         "heading_custom": false,
@@ -639,7 +633,6 @@
         "item_KdCKyJ",
         "item_ECkDyF"
       ],
-      "name": "SS - Comparison Table #4",
       "settings": {
         "heading": "<h2>WHY ANAMILI?</h2>",
         "heading_custom": false,
