@@ -50,7 +50,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "price_size": "medium",
             "show_badges": true,
