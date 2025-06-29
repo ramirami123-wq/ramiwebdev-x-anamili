@@ -34,13 +34,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Artboard_12_5ffb63cb-700b-4977-90c4-0b2ca31cc6f3.png",
+            "image": "shopify://shop_images/1_60610608-baef-4328-8633-c9cad062d98a.png",
             "image_position": "center center",
             "text_box_position": "bottom-center",
             "subheading": "",
             "subheading_size": "h5",
             "heading": "No Mess, No Appointments, No Bullsh*t",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
