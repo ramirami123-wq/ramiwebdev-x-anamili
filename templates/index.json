@@ -15,13 +15,13 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Header_Image_1.png",
+            "image": "shopify://shop_images/3.png",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
             "subheading_size": "h5",
             "heading": "Salon-Grade Gel Nails in 10 Minutes",
-            "heading_size": "h0",
+            "heading_size": "h1",
             "heading_tag": "h2",
             "text": "",
             "text_size": "typeset2",
