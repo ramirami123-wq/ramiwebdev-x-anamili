@@ -56,7 +56,7 @@
         "filter_type": "vertical",
         "enable_filtering_color_swatches": false,
         "filtering_color_swatches_add_label": false,
-        "filtering_max_items": 6,
+        "filtering_max_items": 10,
         "image_ratio": "portrait",
         "image_position": "center center",
         "enable_image_fill": true,
