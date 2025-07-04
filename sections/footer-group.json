@@ -11,6 +11,77 @@
   "name": "t:sections.footer-group.name",
   "type": "footer",
   "sections": {
+    "scrolling_promotion_kChnMx": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_dnQnFG": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "small",
+            "custom_icon": "",
+            "text": "Check our Customer Reviews",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_a7AEbW": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_pKWxQa": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_fBBLrc": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_dnQnFG",
+        "announcement_a7AEbW",
+        "announcement_pKWxQa",
+        "announcement_fBBLrc"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1751668866366bf4d5": {
       "type": "apps",
       "blocks": {
@@ -125,6 +196,7 @@
     }
   },
   "order": [
+    "scrolling_promotion_kChnMx",
     "1751668866366bf4d5",
     "footer"
   ]
